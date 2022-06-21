@@ -154,6 +154,7 @@ portfolioHome
 /*foooter*/
 
 #footer{
+	padding: 1rem ;
 	background-color: Cornsilk;
 }
 
@@ -165,7 +166,7 @@ footer ul{
 
 footer ul li{
 	display: flex;
-	
+
 }
 
 
