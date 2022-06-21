@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+*{
+	font-family:'Rubik';
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	background-color:orange;
+}
+
+.navbar-collapse{
+	justify-content: center;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+ 	color: hotpink;
+ 	transition: 1s;
+ }
+
+ .navbar-light{
+ 	background-color: pink ;
+  }
+
+.inicioPortada{
+	width: 100%;
+	object-fit: cover;
+} 
+
+.neqoLogo{
+	width: 10%;
+	height: 10%;
+}
+
+
+
+
+.portfolioHome{
+	object-fit: cover;
+	width: 100%;
+	height: 10rem;
+	
+}
+
+/*.displayFlex{
+	display: flex;
+}
+
+.justify-content{
+	justify-content: space-around;;
+}
+
+.justify-content{
+	align-content: center;
+}
+*/
+#carouselExampleControls{
+	background-color: red;
+}
+
+
+ #carruselDiv{
+ 	padding: 5rem 5rem;
+ }
+
+ .d-block{
+ 	background-color: violet;
+
+ }
+
+.w-100{
+ 	width: 100%;
+ }
+
+
+
+/*.card-group{
+	padding: 2rem 2rem;
+	background-color: hotpink;
+}
+
+.card{
+	padding: 5px 5px;
+}
+
+#carouselExampleControls{
+	padding: 10rem 5rem;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*foooter*/
+
+#footer{
+	width: 100%;
+	background-color: Cornsilk;
+}
+
+footer ul{
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+}
+
+
+
+
+.footerIcon{
+	width: 5%;
+	text-decoration: none;
+
+}
+
